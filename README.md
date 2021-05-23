@@ -20,4 +20,4 @@ Voici quelques idées pour vous aider à démarrer:
 
 J'aime travailler en equipe et m’imprégner du savoir faire de mes devanciers.
 <br>
-Mon envie actuel c'est de travailler en équipe avec des expert du domaine pour apprendre encore plus auprès d'eux et comprendre leurs méthodes de travail.
+Ayant appris tout ce que je sais à la maison depuis mon ordinateur, Mon envie actuel c'est de travailler en équipe avec des expert du domaine pour apprendre encore plus auprès d'eux et comprendre leurs méthodes de travail.
