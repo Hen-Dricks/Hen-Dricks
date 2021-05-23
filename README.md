@@ -12,6 +12,7 @@ Jeune développeur (JUNIOR) full stack et Designer, ma spécialité c'est le dé
 <br>
 Voici quelques idées pour vous aider à démarrer:
 
+
 💻 Je travaille actuellement sur: [Bitchange](https://www.bitchange.ci), [Horizom](https://horizom.github.io/) ...
                 
 📕 J'apprends acuellement React & Flutter
