@@ -1,3 +1,4 @@
+<img height="100" src="https://avatars.githubusercontent.com/u/62672799?v=4">
 # Salut ✌️ moi c'est Hendricks
 
 Jeune développeur (JUNIOR) full stack et Designer, ma spécialité c'est le développement Web mais je me débrouille pas mal en développement mobile.
