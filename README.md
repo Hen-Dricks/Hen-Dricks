@@ -1,4 +1,4 @@
-# Salut ✌️ moi c'est 🤴🏽 Hen Drick's ❌
+# Salut 😊 moi c'est 🤴🏽 Hen Drick's ❌
 Jeune développeur (JUNIOR) full stack et Designer, ma spécialité c'est le développement Web mais je me débrouille pas mal en développement mobile.
 
 <a href="http://linkedin.com/in/hamien-jean-l-b0b86aa9">
