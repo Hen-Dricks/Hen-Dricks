@@ -9,6 +9,7 @@ Je suis un jeune développeur (JUNIOR) full stack et Designer, ma spécialité c
   <img align="left" alt="Hen Drick's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
+<br>
 Voici quelques idées pour vous aider à démarrer:
 
 💻 Je travaille actuellement sur: [Bitchange](https://www.bitchange.ci), [Horizom](https://horizom.github.io/) ...
