@@ -19,3 +19,5 @@ Voici quelques idées pour vous aider à démarrer:
 📮 Pour me joindre: drjayhk@gmail.com
 
 J'aime travailler en equipe et m’imprégner du savoir faire de mes devanciers.
+<br>
+Mon envie actuel c'est de travailler en équipe avec des expert du domaine pour apprendre encore plus auprès d'eux et comprendre leurs méthodes de travail.
