@@ -8,6 +8,6 @@ Voici quelques idées pour vous aider à démarrer:
                 
 📕 J'apprends acuellement React & Flutter
 
-📮 Comment me joindre: drjayhk@gmail.com
+📮 Pour me joindre: drjayhk@gmail.com
 
 J'aime travailler en equipe et m’imprégner du savoir faire de mes devanciers.
