@@ -26,3 +26,4 @@ J'aime travailler en equipe et m’imprégner du savoir faire de mes devanciers.
 <code><img height="20" src="https://sponsors.vuejs.org/images/laravel.png"></code>
 <code><img height="20" src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png"></code>
 <code><img height="20" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/67591465?s=200&v=4"></code>
