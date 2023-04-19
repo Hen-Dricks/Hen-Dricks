@@ -14,7 +14,7 @@ Développeur web et mobile autodidacte passionné par la création d'application
 Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences et projets passés.
 <br><br>
 
-**Langues et outils:**
+**Langages et outils:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
