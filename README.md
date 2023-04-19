@@ -28,5 +28,3 @@ Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences
 
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/languages.svg#gh-light-mode-only)
-
-[![Top Langs](https://my-github-readme-stats-two.vercel.app/api/top-langs/?username=Hen-Dricks)](https://github.com/anuraghazra/github-readme-stats)
