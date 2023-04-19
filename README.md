@@ -1,6 +1,6 @@
-#🤴🏽 Hen Drick's ❌
-Jeune développeur full stack et Designer, ma spécialité c'est le développement Web mais je me débrouille pas mal en développement mobile.
+## Bienvenue sur mon profil GitHub !
 
+## 🤴🏽 Hen Drick's ❌
 <a href="http://linkedin.com/in/hamien-jean-l-b0b86aa9">
   <img align="left" alt="Hen Drick's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,14 +9,10 @@ Jeune développeur full stack et Designer, ma spécialité c'est le développeme
 </a>
 <br>
 <br>
-
-💻 Je travaille actuellement sur: [Horizom](https://horizom.github.io/) ...
-
-📮 Pour me joindre: drjayhk@gmail.com
-
-J'aime travailler en equipe et m’imprégner du savoir faire de mes devanciers.
-<br>
-Étant autodidacte, Mon envie actuel c'est de travailler en équipe avec des expert du domaine pour apprendre encore plus auprès d'eux et comprendre leurs méthodes de travail.
+Développeur web et mobile autodidacte passionné par la création d'applications performantes et intuitives. 
+<br>J'ai acquis une solide maîtrise des technologies frontales et backend, et je suis constamment à la recherche de nouveaux défis pour affiner mes compétences et apprendre de nouvelles technologies. Que ce soit pour un site Web simple ou une application mobile complexe, je suis prêt à relever tous les défis pour fournir des solutions de qualité.<br>
+Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences et projets passés.
+<br><br>
 
 **Langues et outils:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
