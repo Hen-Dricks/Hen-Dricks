@@ -25,3 +25,5 @@ Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences
 <code><img height="20" src="https://avatars.githubusercontent.com/u/67591465?s=200&v=4"></code>
 <code><img height="20" src="https://ionicframework.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fframework-1.f8c82db2.png&w=256&q=75"></code>
 <code><img height="20" src="https://www.python.org/static/img/python-logo@2x.png"></code>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hen-Dricks&include_all_commits=true&count_private=true&show_icons=true&custom_title=My%20Github%20Stats&theme=default)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Dricks&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
