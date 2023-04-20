@@ -28,3 +28,6 @@ Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences
 
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/languages.svg#gh-dark-mode-only)
