@@ -1,6 +1,7 @@
 ## Bienvenue sur mon profil GitHub !
 
 ## 🤴🏽 Hen Drick's ❌
+[![wakatime](https://wakatime.com/badge/user/7b352a6a-e2c5-4412-8add-dbabac90c9f7.svg)](https://wakatime.com/@7b352a6a-e2c5-4412-8add-dbabac90c9f7)
 <a href="http://linkedin.com/in/hamien-jean-l-b0b86aa9">
   <img align="left" alt="Hen Drick's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
