@@ -26,6 +26,7 @@ Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences
 <code><img height="20" src="https://avatars.githubusercontent.com/u/67591465?s=200&v=4"></code>
 <code><img height="20" src="https://ionicframework.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fframework-1.f8c82db2.png&w=256&q=75"></code>
 <code><img height="20" src="https://www.python.org/static/img/python-logo@2x.png"></code>
+<code><img height="20" src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg"></code>
 
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/languages.svg#gh-light-mode-only)
