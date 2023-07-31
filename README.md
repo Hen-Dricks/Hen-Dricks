@@ -18,14 +18,15 @@ Contactez-moi pour une collaboration ou pour en savoir plus sur mes compétences
 **Langages et outils:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img height="20" src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png"></code>
-<code><img height="20" src="https://sponsors.vuejs.org/images/laravel.png"></code>
-<code><img height="20" src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>
+<code><img height="20" src="https://play.vuejs.org/logo.svg"></code>
 <code><img height="20" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/67591465?s=200&v=4"></code>
 <code><img height="20" src="https://ionicframework.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fframework-1.f8c82db2.png&w=256&q=75"></code>
-<code><img height="20" src="https://www.python.org/static/img/python-logo@2x.png"></code>
+<code><img height="20" src="https://docs.python.org/3/_static/py.svg"></code>
 <code><img height="20" src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg"></code>
 
 ![](https://raw.githubusercontent.com/Hen-Dricks/profile-stats/master/generated/overview.svg#gh-light-mode-only)
